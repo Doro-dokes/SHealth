@@ -3,7 +3,7 @@
         var source = document.createElement('source');
         
         
-        function changeVid(path) {
+        function changeVid() {
         source.setAttribute('src', 'http://clips.vorwaerts-gmbh.de/VfE_html5.mp4');
         
         video.appendChild(source);
