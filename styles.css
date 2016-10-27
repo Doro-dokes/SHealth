@@ -18,13 +18,20 @@
             background-repeat: no-repeat; 
             background-color: rgba(255,255,255,1); 
         }
+        .silex-id-1477585246736-16 {
+            min-height: 244px; 
+            width: 320px; 
+            top: 100px; 
+            left: 813px; 
+            background-color: rgb(255, 255, 255); 
+        }
         .silex-id-1477584939387-6 {
             min-height: 58px; 
             width: 147px; 
             top: 48px; 
             left: 33px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
+            opacity: 0.9; 
         }
         .silex-id-1477585012840-7 {
             min-height: 59px; 
@@ -97,12 +104,5 @@
             left: 432px; 
             background-color: rgb(255, 255, 255); 
             opacity: 0.4; 
-        }
-        .silex-id-1477585246736-16 {
-            min-height: 244px; 
-            width: 320px; 
-            top: 100px; 
-            left: 813px; 
-            background-color: rgb(255, 255, 255); 
         }
     
