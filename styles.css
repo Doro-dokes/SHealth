@@ -1,6 +1,14 @@
 
+        .mouseOver
+        {
+            opacity:0.4;
+        	background-color: rgb(255, 255, 255);
+        	cursor: pointer; 
+        	cursor: hand;
+        }
+    
         .body-initial {
-            background-color: rgb(38, 38, 38); 
+            background-color: rgba(255,255,255,1); 
             background-repeat: no-repeat; 
             background-position: center center; 
             background-attachment: fixed; 
@@ -18,20 +26,13 @@
             background-repeat: no-repeat; 
             background-color: rgba(255,255,255,1); 
         }
-        .silex-id-1477585246736-16 {
-            min-height: 244px; 
-            width: 320px; 
-            top: 100px; 
-            left: 813px; 
-            background-color: rgb(255, 255, 255); 
-        }
         .silex-id-1477584939387-6 {
-            min-height: 58px; 
-            width: 147px; 
+            width: 141px; 
             top: 48px; 
             left: 33px; 
+            cursor: hand; 
+            min-height: 56px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.9; 
         }
         .silex-id-1477585012840-7 {
             min-height: 59px; 
@@ -39,7 +40,6 @@
             top: 51px; 
             left: 202px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585041105-8 {
             min-height: 38px; 
@@ -47,7 +47,6 @@
             top: 46px; 
             left: 431px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585047017-9 {
             min-height: 34px; 
@@ -55,7 +54,6 @@
             top: 86px; 
             left: 431px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585055368-10 {
             min-height: 34px; 
@@ -63,7 +61,6 @@
             top: 122px; 
             left: 433px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585066830-11 {
             min-height: 58px; 
@@ -71,7 +68,6 @@
             top: 155px; 
             left: 432px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585072217-12 {
             min-height: 35px; 
@@ -79,7 +75,6 @@
             top: 218px; 
             left: 433px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585078491-13 {
             min-height: 34px; 
@@ -87,7 +82,6 @@
             top: 309px; 
             left: 429px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585088885-14 {
             min-height: 34px; 
@@ -95,7 +89,6 @@
             top: 346px; 
             left: 432px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
         }
         .silex-id-1477585095451-15 {
             min-height: 39px; 
@@ -103,6 +96,107 @@
             top: 381px; 
             left: 432px; 
             background-color: rgb(255, 255, 255); 
-            opacity: 0.4; 
+        }
+        .silex-id-1477585246736-16 {
+            min-height: 245px; 
+            width: 337px; 
+            top: 89px; 
+            left: 747px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477916435769-0 {
+            min-height: 656px; 
+            width: 57px; 
+            top: 51px; 
+            left: 338px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918442293-2 {
+            width: 110px; 
+            top: 166px; 
+            left: 44px; 
+            cursor: hand; 
+            min-height: 42px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918450580-3 {
+            width: 260px; 
+            top: 254px; 
+            left: 37px; 
+            cursor: hand; 
+            min-height: 56px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918455746-4 {
+            width: 231px; 
+            top: 342px; 
+            left: 46px; 
+            cursor: hand; 
+            min-height: 47px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918465130-5 {
+            width: 249px; 
+            top: 459px; 
+            left: 430px; 
+            cursor: hand; 
+            min-height: 36px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918473226-6 {
+            width: 182px; 
+            top: 498px; 
+            left: 707px; 
+            cursor: hand; 
+            min-height: 37px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918481385-7 {
+            width: 246px; 
+            top: 498px; 
+            left: 434px; 
+            cursor: hand; 
+            min-height: 35px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918489099-8 {
+            width: 245px; 
+            top: 532px; 
+            left: 435px; 
+            cursor: hand; 
+            min-height: 35px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918503646-10 {
+            width: 248px; 
+            top: 601px; 
+            left: 434px; 
+            cursor: hand; 
+            min-height: 34px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918517453-11 {
+            width: 248px; 
+            top: 636px; 
+            left: 435px; 
+            cursor: hand; 
+            min-height: 34px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918521944-12 {
+            width: 248px; 
+            top: 671px; 
+            left: 434px; 
+            cursor: hand; 
+            min-height: 34px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1477918496216-9 {
+            width: 248px; 
+            top: 567px; 
+            left: 433px; 
+            cursor: hand; 
+            min-height: 33px; 
+            background-color: rgb(255, 255, 255); 
         }
     
